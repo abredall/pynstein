@@ -3,7 +3,7 @@ pynstein: Special Relativity in Python
 
 **Version:** 0.2.0
 
-**Author:** John Bredall
+**Author:** Ari Bredall
 
 **Description:** A package for the ease of applying Lorentz transformations and managing reference frames
 
